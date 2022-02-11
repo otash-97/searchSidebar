@@ -43,7 +43,7 @@ a{
 }
 .sidebar{
 
-  background-color: black;
+  background-color: blueviolet;
 
 }
 #mySearch{
@@ -67,7 +67,7 @@ a{
 }
 .sidebar .closebtn {
   position: absolute;
-  background-color: #000;
+  background-color: blueviolet;
   color: #fff;
   border: 0;
   cursor: pointer;
